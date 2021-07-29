@@ -1,6 +1,8 @@
-Bonjour et bienvenue sur mon profil Github !
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-## Qui suis-je [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+Bonjour et bienvenue sur mon profil Github ! 
+
+## Qui suis-je 
 
 Je m'appelle Nicolas, j'ai 27ans et je vis à Paris !
 
