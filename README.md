@@ -2,8 +2,6 @@
 
 Bonjour et bienvenue sur mon profil Github ! 
 
-## Qui suis-je 
-
 Je m'appelle Nicolas, j'ai 27ans et je vis à Paris !
 
 Je suis à la recherche d'une alternance, en région parisienne, pour le mois d'Octobre 2021 !
