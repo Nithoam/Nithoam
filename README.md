@@ -11,4 +11,5 @@ Passionn√© par le dev', j'ai suivi une formation de 6 mois avec O'clock avec sp√
 ## Contact
 
 Linkedn : https://www.linkedin.com/in/nicolas-garilliere-4695b519b/
+
 E-mail : nicolas.nithoam@gmail.com
