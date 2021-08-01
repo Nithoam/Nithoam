@@ -9,6 +9,7 @@ Je suis à la recherche d'une alternance, en région parisienne, pour le mois d'
 Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec pour spécialisation React, avant de ré-empiler pour une formation de seize mois en alternance afin de me présenter au titre professionnel "Concepteur Developpeur d'application" au mois de février 2023 !
 
 ## Langages et outils 
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
