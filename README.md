@@ -19,4 +19,5 @@ Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques
 ## Contact
 
 Linkedn : https://www.linkedin.com/in/nicolas-garilliere-4695b519b/
+
 E-mail : nicolas.nithoam@gmail.com
