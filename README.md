@@ -21,7 +21,8 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-### Mes objectifs pour 2022
+
+## Mes objectifs pour 2022
 
 - Acquérir des notions de web-design afin d'etre force de proposition
 - Découvrir Jquery, Angular et Vue.js pour la partie front-end
@@ -29,7 +30,7 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 
 Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques Javascript afin de devenir le plus polyvalent possible !
 
-### Contact
+## Contact
 
 Linkedn : https://www.linkedin.com/in/nicolas-garilliere-4695b519b/
 
