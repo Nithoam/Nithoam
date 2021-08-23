@@ -21,6 +21,11 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ...
+## Mes projets en cours
+
+- Réalisation d'un portfolio plus moderne que le premier
+- Préparation de la certification Opquast
+- Préparation du Titre professionnel "Developpeur web et web mobile"
 
 ## Mes objectifs pour 2022
 
