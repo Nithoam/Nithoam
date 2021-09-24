@@ -4,9 +4,9 @@ Bonjour et bienvenue sur mon profil Github !
 
 Je m'appelle Nicolas, j'ai 27 ans et je vis à Paris !
 
-Je suis à la recherche d'une alternance, en région parisienne, pour le mois d'octobre 2021 !
+A partir du 16 octobre, je serais en alternance chez Jack and Russel's, une entreprise situé à Toulon, dans l'objectif de passer le titre professionnel "Concepteur Developpeur d'Applications".
 
-Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec pour spécialisation React, avant de ré-empiler pour une formation de seize mois en alternance afin de me présenter au titre professionnel "Concepteur Developpeur d'application" au mois de février 2023 !
+Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec pour spécialisation React avant de quitter ma ville natale Paris, pour rejoindre Toulon, afin d'y suivre 18 mois en alternance.
 
 ## Langages et outils 
 
