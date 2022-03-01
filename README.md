@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue sur mon profil Github ! 
 
-Je m'appelle Nicolas, j'ai 27 ans et je vis à Toulon !
+Je m'appelle Nicolas, j'ai 28 ans et je vis à Toulon !
 
 Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec pour spécialisation React avant d'enchainer avec une formation de Concepteur/Developpeur d'Applications de 18 mois, en alternance, chez Jack and Russell's.
 
@@ -18,7 +18,6 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 ## Mes projets en cours
 
 - Réalisation d'un portfolio plus moderne que le premier
-- Préparation du Titre professionnel "Developpeur web et web mobile" (Fevrier 2022)
 - Préparation du Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
 
 ## Mes objectifs pour 2022
