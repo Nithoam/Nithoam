@@ -18,13 +18,13 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 ## Mes projets en cours
 
 - Réalisation d'un portfolio plus moderne que le premier
-- Préparation du Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
+- Atlernance pour le Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
 
 ## Mes objectifs pour 2022
 
 - Acquérir des notions de web-design afin d'etre force de proposition
-- Apprendre et maitriser Node.js pour la partie back-end
-- Découvrir Jquery, Angular et Vue.js pour la partie front-end
+- Apprendre à utiliser Node.js pour la partie back-end
+- Découvrir Angular et Vue.js pour la partie front-end
 
 Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques Javascript afin de devenir le plus polyvalent possible !
 
