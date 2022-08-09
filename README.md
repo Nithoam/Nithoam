@@ -17,7 +17,7 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 ...
 ## Mes projets en cours
 
-- Réalisation d'un portfolio plus moderne que le premier
+- Réalisation d'un portfolio plus moderne que le premier (nicolas-garilliere.fr)
 - Atlernance pour le Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
 
 ## Mes objectifs pour 2022
@@ -25,6 +25,8 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 - Acquérir des notions de web-design afin d'etre force de proposition
 - Apprendre à utiliser Node.js pour la partie back-end
 - Découvrir Angular et Vue.js pour la partie front-end
+- Découvrir les arcanes du SEO
+- Utiliser régulièrement Jest pour effectuer mes tests
 
 Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques Javascript afin de devenir le plus polyvalent possible !
 
