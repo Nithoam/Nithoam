@@ -17,7 +17,7 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 ...
 ## Mes projets en cours
 
-- Réalisation d'un portfolio plus moderne que le premier (nicolas-garilliere.fr)
+- Réalisation d'un portfolio plus moderne que le premier ( https://www.nicolas-garilliere.fr/ )
 - Atlernance pour le Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
 
 ## Mes objectifs pour 2022
