@@ -35,3 +35,5 @@ Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques
 Linkedn : https://www.linkedin.com/in/nicolas-garilliere/
 
 E-mail : nicolas.nithoam@gmail.com
+
+Téléphonr portable : 06 49 51 36 55
