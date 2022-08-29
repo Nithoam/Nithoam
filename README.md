@@ -26,7 +26,7 @@ Passionné par le dev', j'ai suivi une formation de six mois avec O'clock, avec 
 - Apprendre à utiliser Node.js pour la partie back-end
 - Découvrir Angular et Vue.js pour la partie front-end
 - Découvrir les arcanes du SEO
-- Utiliser régulièrement Jest pour effectuer mes tests
+- Apprendre à réaliser régulièrement et efficacement des tests
 
 Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques Javascript afin de devenir le plus polyvalent possible !
 
@@ -36,4 +36,4 @@ Linkedn : https://www.linkedin.com/in/nicolas-garilliere/
 
 E-mail : nicolas.nithoam@gmail.com
 
-Téléphonr portable : 06 49 51 36 55
+Téléphone portable : 06 49 51 36 55
