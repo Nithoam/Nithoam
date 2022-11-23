@@ -7,7 +7,7 @@ Je m'appelle Nicolas, j'ai 28 ans et je vis à Toulon !
 Diplômé du titre professionnel "Développeur Web et Web Mobile" depuis février 2022, je suis actuellement en alternance, jusqu'au 20 avril 2023, avec Jack and Russell's afin de me présenter au titre professionnel "Concepteur Développeur d'Applications" en février 2023.
 Intéressé par l'écosystème Javascript, je cherche continuellement à apprendre de nouvelles manières d'être plus efficace dans mon travail.
 
-https://www.nicolas-garilliere.fr/
+www.nicolas-garilliere.fr
 
 ## Langages et outils 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,7 +34,7 @@ Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques
 
 ## Contact
 
-Linkedn : https://www.linkedin.com/in/nicolas-garilliere/
+Linkedn : https://www.linkedin.com/in/nicolas-garilliere
 
 E-mail : nicolas.nithoam@gmail.com
 
