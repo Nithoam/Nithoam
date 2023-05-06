@@ -2,26 +2,12 @@
 
 Bonjour et bienvenue sur mon profil Github ! 
 
-Je m'appelle Nicolas, j'ai 28 ans et je vis à Toulon !
+Je m'appelle Nicolas, j'ai 29 ans et je vis à Lille !
 
-Diplômé du titre professionnel "Développeur Web et Web Mobile" depuis février 2022, je suis actuellement en alternance, jusqu'au 20 avril 2023, avec Jack and Russell's afin de me présenter au titre professionnel "Concepteur Développeur d'Applications" en février 2023.
-Intéressé par l'écosystème Javascript, je cherche continuellement à apprendre de nouvelles manières d'être plus efficace dans mon travail.
+Diplômé du titre professionnel "Développeur Web et Web Mobile" depuis février 2022.
+Je suis ntéressé par l'écosystème Javascript et je cherche continuellement à apprendre de nouvelles manières d'être plus efficace dans mon travail.
 
 www.nicolas-garilliere.fr
-
-## Mes projets en cours
-
-- Atlernance pour le Titre professionnel "Concepteur/Developpeur d'Applications" (Fevrier 2023)
-
-## Mes objectifs pour 2022
-
-- Acquérir des notions de web-design afin d'etre force de proposition
-- Apprendre à utiliser Node.js pour la partie back-end
-- Découvrir Angular et Vue.js pour la partie front-end
-- Découvrir les arcanes du SEO
-- Apprendre à réaliser régulièrement et efficacement des tests
-
-Globalement, acquérir un maximum d'expériences avec les grosses bibliothèques Javascript afin de devenir le plus polyvalent possible !
 
 ## Contact
 
