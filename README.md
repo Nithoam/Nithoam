@@ -5,7 +5,7 @@ Bonjour et bienvenue sur mon profil Github !
 Je m'appelle Nicolas, j'ai 29 ans et je vis à Lille !
 
 Diplômé du titre professionnel "Développeur Web et Web Mobile" depuis février 2022.
-Je suis ntéressé par l'écosystème Javascript et je cherche continuellement à apprendre de nouvelles manières d'être plus efficace dans mon travail.
+Je suis intéressé par l'écosystème Javascript et je cherche continuellement à apprendre de nouvelles manières d'être plus efficace dans mon travail.
 
 www.nicolas-garilliere.fr
 
